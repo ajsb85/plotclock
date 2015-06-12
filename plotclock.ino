@@ -15,18 +15,18 @@
 //       - see http://www.pjrc.com/teensy/td_libs_DS1307RTC.html for how to hook up the real time clock 
 
 // delete or mark the next line as comment if you don't need these
-#define CALIBRATION      // enable calibration mode
+//#define CALIBRATION      // enable calibration mode
 //#define REALTIMECLOCK    // enable real time clock
 
 // When in calibration mode, adjust the following factor until the servos move exactly 90 degrees
 #define SERVOFAKTORLEFT 650
-#define SERVOFAKTORRIGHT 650
+#define SERVOFAKTORRIGHT 620
 
 // Zero-position of left and right servo
 // When in calibration mode, adjust the NULL-values so that the servo arms are at all times parallel
 // either to the X or Y axis
-#define SERVOLEFTNULL 2250
-#define SERVORIGHTNULL 920
+#define SERVOLEFTNULL 2150
+#define SERVORIGHTNULL 1000
 
 #define SERVOPINLIFT  2
 #define SERVOPINLEFT  3
@@ -42,7 +42,7 @@
 
 // length of arms
 #define L1 35
-#define L2 55.1
+#define L2 65
 #define L3 13.2
 
 // origin points of left and right servo 
