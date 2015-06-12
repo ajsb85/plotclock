@@ -1,7 +1,5 @@
-plotclock
+Plotclock
 =========
-
-plotclock
 
 a clock that plots time
 
