@@ -25,3 +25,7 @@ See: http://www.thingiverse.com/thing:248009/#instructions
 --
 
 this actually is my first git project, so merging, forks etc. is still new to me and could take some time
+
+Video of our prototype
+-------------
+https://vimeo.com/130459972
