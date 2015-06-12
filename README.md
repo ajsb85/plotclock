@@ -27,3 +27,7 @@ this actually is my first git project, so merging, forks etc. is still new to me
 Video of our prototype
 -------------
 https://vimeo.com/130459972
+
+Telegram group
+-------------
+https://telegram.me/joinchat/004988860158598aa2b6d2ad79e013dc
